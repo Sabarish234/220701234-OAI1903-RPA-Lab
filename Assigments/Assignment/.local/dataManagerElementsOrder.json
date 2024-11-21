@@ -1,0 +1,80 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "TNEB bot.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "units&Sequence_1",
+        "amount&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_rpa&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "whois bot.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "domain&Sequence_1",
+        "registrar&Sequence_1",
+        "registeredon&Sequence_1",
+        "expireson&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "sun signs.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "month&Sequence_1",
+        "birthdate&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "random guesser.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "input&Sequence_1",
+        "random&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "playerguess.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "randomnum&Sequence_1",
+        "playerturn&Sequence_1",
+        "gussednum&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

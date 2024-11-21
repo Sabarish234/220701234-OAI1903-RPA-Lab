@@ -1,0 +1,111 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "whiledemo (1).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "intNumber&Sequence_3",
+        "intRandom&Sequence_3",
+        "intCount&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "foreachfiles.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "folderName&Sequence_1",
+        "filename&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "DebuggingSelectordemo24.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SequenceDebuggingSelectorDemo.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "FlowchartDemo.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "course&Flowchart_1",
+        "lkyno&Flowchart_1",
+        "chance&Flowchart_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "220701234 - bubblesort.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "array&Sequence_1",
+        "i&Sequence_1",
+        "j&Sequence_1",
+        "min&Sequence_1",
+        "temp&Sequence_1",
+        "l&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ParallelProcessDemo.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "pp1&Sequence_1",
+        "pp2&Sequence_1",
+        "pp3&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "trycatchdemo.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "rollno&Sequence_1",
+        "name&Sequence_1",
+        "mobile&Sequence_1",
+        "errormsg&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

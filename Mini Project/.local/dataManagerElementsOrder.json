@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "reportoutput&Sequence_1",
+        "report&Sequence_1",
+        "updatetable&Sequence_1",
+        "updatecheck&Sequence_1",
+        "updatequantity&Sequence_1",
+        "updateitem&Sequence_1",
+        "stocksoutput&Sequence_1",
+        "stocks&Sequence_1",
+        "switchcase&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

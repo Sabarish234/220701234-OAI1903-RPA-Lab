@@ -1,0 +1,17 @@
+!SESSION 2024-11-14 19:02:55.013 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_252
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 2 0 2024-11-14 19:02:57.052
+!MESSAGE Warnings while parsing the handlers from the 'org.eclipse.ui.handlers' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-14 19:02:57.052
+!MESSAGE Handlers need a class: plug-in='in.solpro.nucleus.inventory.ui', id='in.solpro.nucleus.base.ui.generic.edit'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-14 19:02:57.052
+!MESSAGE Handlers need a class: plug-in='in.solpro.nucleus.inventory.ui', id='in.solpro.nucleus.base.ui.generic.edit'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-14 19:02:57.052
+!MESSAGE Handlers need a class: plug-in='in.solpro.nucleus.inventory.ui', id='in.solpro.nucleus.base.ui.generic.delete'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-14 19:02:57.052
+!MESSAGE Handlers need a class: plug-in='in.solpro.nucleus.inventory.ui', id='in.solpro.nucleus.base.ui.generic.edit'
